@@ -2,6 +2,7 @@
 - 🌱 Сейчас учусь в Яндекс Практикум, на факультете web-разработка
 - 👻 Добираю знаниями и сертификатами на Хекслете и Coursera
 - 🎏 Хочу развиваться в web - разработке 
+- 🤖 кодю на CodeWars https://www.codewars.com/users/MaksNikulnikov
 - 👯 Ищу возможность для получения коммерческого опыта
 
 ### Мой стек:
@@ -11,7 +12,6 @@
 - React.js
 - Sass
 
-https://www.codewars.com/users/MaksNikulnikov/badges/small
 <!--
 **MaksNikulnikov/MaksNikulnikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
