@@ -3,14 +3,17 @@
 - 👻 Добираю знаниями и сертификатами на Хекслете и Coursera
 - 🎏 Хочу развиваться в web - разработке 
 - 🤖 кодю на CodeWars https://www.codewars.com/users/MaksNikulnikov
-- 👯 Ищу возможность для получения коммерческого опыта
+- 👯 Ищу возможность для получения коммерческого опыта на React.js
 
 ### Мой стек:
+- React.js
 - HTML5
 - CSS3
 - JavaScript
-- React.js
 - Sass
+- Java
+- Android api
+- Unity
 
 <!--
 **MaksNikulnikov/MaksNikulnikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
