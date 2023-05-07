@@ -6,10 +6,14 @@ Junior Web Developer and Designer
 
 I have been learning to code for almost 10 years. I started by learning the C language. Then I was trained in Java and creating an Android App. Then I got interested in Unity3D and the graphic editors GIMP and Moho Studio Pro 11. In 2022, I began to study Web development at 10 monthly Yandex Practicum courses. This topic really intrigues me. Now I am writing my thesis project and looking for opportunities to develop in this direction.
 
-*   🌍  I'm based in Mersin Turkie
-*   ✉️  You can contact me at [5286433@gmail.com](mailto:5286433@gmail.com)
-*   🚀  I'm currently working on [Project Mesto](http://vmesto.nomoredomains.monste)
-*   🧠  I'm learning MongoDB### Skills 
+* 🌍  I'm based in Mersin Turkie
+* ✉️  You can contact me at [5286433@gmail.com](mailto:5286433@gmail.com)
+* 🚀  I'm currently working on [Project Mesto](http://vmesto.nomoredomains.monste)
+* 🧠  I'm learning MongoDB
+
+### Skills
+
+
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -27,13 +31,14 @@ I have been learning to code for almost 10 years. I started by learning the C la
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/MaksNikulnikov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/maksnikulnikov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/MaksNikulnikov"><img src="https://github-readme-stats.vercel.app/api?username=MaksNikulnikov&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MaksNikulnikov's GitHub stats" /></a>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/MaksNikulnikov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/maksnikulnikov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/MaksNikulnikov"><img src="https://github-readme-stats.vercel.app/api?username=MaksNikulnikov&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MaksNikulnikov's GitHub stats" /></a>
