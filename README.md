@@ -11,8 +11,8 @@ I have been learning to code for almost 10 years. I started by learning the C la
 * 🚀  I'm currently working on [Project Mesto](http://vmesto.nomoredomains.monste)
 * 🧠  I'm learning MongoDB
 
+<a href="[https://www.codewars.com/users/MaksNikulnikov" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/MaksNikulnikov/badges/large" alt="Codewars" /></a>
 
-https://www.codewars.com/users/MaksNikulnikov/badges/large
 
 ### Skills
 
