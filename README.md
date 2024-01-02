@@ -1,15 +1,14 @@
 Hi 👋 My name is Maksim
 =======================
 
-Junior Web Developer and Designer
+Full stack web developer
 ---------------------------------
 
-I have been learning to code for almost 10 years. I started by learning the C language. Then I was trained in Java and creating an Android App. Then I got interested in Unity3D and the graphic editors GIMP and Moho Studio Pro 11. In 2022, I began to study Web development at 10 monthly Yandex Practicum courses. This topic really intrigues me. Now I am writing my thesis project and looking for opportunities to develop in this direction.
+I have been codding for almost 10 years. I started by learning the Java language. Then I was trained in creating an Android App. Then I got interested in Unity3D and the graphic editors GIMP and Moho Studio Pro 11. In 2022, I began to study Web development at 10 monthly Yandex Practicum courses. This topic really intrigues me. Now I am working in [Advers Inc](https://ads2life.com/).
 
 * 🌍  I'm based in Mersin Turkie
 * ✉️  You can contact me at [5286433@gmail.com](mailto:5286433@gmail.com)
-* 🚀  I'm currently working on [My prtfolio ](https://portfolio.nomoredomains.monster/)
-* 🧠  I'm learning MongoDB
+* 🚀  I'm currently working on [Babelshark.net](https://babelshark.net/)
 
 <a href="https://www.codewars.com/users/MaksNikulnikov" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/MaksNikulnikov/badges/large" alt="Codewars" /></a>
 
